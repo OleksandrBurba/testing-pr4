@@ -1,0 +1,15 @@
+{
+  "name": "testing-pr4",
+  "version": "1.0.0",
+  "description": "Практична робота 4, варіант 6 - splitBill",
+  "main": "split-bill.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "author": "Бурба Олександр",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
